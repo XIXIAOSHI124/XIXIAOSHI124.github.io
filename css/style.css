@@ -6949,12 +6949,12 @@ body.okayNav-loaded {
 
 .donate-box .donate-head:before {
   content: '\201c';
-  left: 30px;
+  left: 20px;
 }
 
 .donate-box .donate-head:after {
   content: '\201d';
-  right: 70px;
+  right: 55px;
 }
 
 .donate-box .donate-footer {
